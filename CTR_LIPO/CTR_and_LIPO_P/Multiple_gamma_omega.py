@@ -12,19 +12,17 @@ beta  = 9 * lambda_max
 gamma = 0.07
 omega = 0.015
 
-n_calls = 20
+n_calls = 600
 eps = 0.0000000000002
-n_lambda = 2
+n_lambda = 300
 
 
 
 
 # ------------------ GAMMA AND OMEGA VALUES ------------------
 
-# gamma_values = [0.01, 0.2, 0.9, 1.5, 3.5]
-# omega_values = [0.02, 0.2, 0.5]
-gamma_values = [0.01]
-omega_values = [0.02]
+gamma_values = [0.01, 0.2, 0.9, 1.5, 3.5]
+omega_values = [0.02, 0.2, 0.5]
 results = []
 
 
