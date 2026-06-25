@@ -20,10 +20,10 @@ lambda_min, lambda_max = 0.1, 0.8
 beta  = 9 * lambda_max
 gamma = 0.07
 omega = 0.015
-n_calls = 20
+n_calls = 600
 eps = 0.0000000000002
 
-n_lambda = 2  
+n_lambda = 300  
 
 # ---------------------------------------------------------
 # COMPUTE STACKELBERG EQUILIBRIUM
