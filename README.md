@@ -228,7 +228,7 @@ All figures are saved as high-resolution PNG files and accompanied by their unde
 If you use this code, please cite:
 
 **LIPO+:**
-> LIPO+: Frugal global optimization for lipschitz functions, Serr{\'e}, Ga{\"e}tan and Beja-Battais, Perceval and Chirrane, Sophia and Kalogeratos, Argyris and Vayatis, Nicolas *Pro. of the 13th Hellenic Conference on Artificial Intelligence*, 2024.
+> LIPO+: Frugal global optimization for lipschitz functions, Serré, Gaétan and Beja-Battais, Perceval and Chirrane, Sophia and Kalogeratos, Argyris and Vayatis, Nicolas *Pro. of the 13th Hellenic Conference on Artificial Intelligence*, 2024.
 
 **CTR-LIPO Stackelberg model:**
 > `Arnold Willie Kouam Kounchou, Stefan Rass`, "When to Cut the Rope: Optimal Timing of Cyber-Defense Interventions Against Adaptive Advanced Persistent Threats," *International Conference on Game Theory and AI for Security*, `2026`.
