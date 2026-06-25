@@ -1,0 +1,6 @@
+__pycache__
+.DS_Store
+*.pyc
+data/
+data_geometric/
+figures/*
