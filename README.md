@@ -25,13 +25,13 @@ An optimization framework for computing **ε-pessimistic Stackelberg equilibria*
 
 ## Overview
 
-This project computes the Stackelberg equilibrium (T*, \lambda*) of a defender–attacker timing game, in which:
+This project computes the Stackelberg equilibrium (T*, λ*) of a defender–attacker timing game, in which:
 
-- the defender (leader) chooses a review interval $T$,
-- the attacker (follower) chooses an attack rate $\lambda$,
+- the defender (leader) chooses a review interval T,
+- the attacker (follower) chooses an attack rate λ,
 - the interaction outcome is determined by a CTR model evaluated on a chosen attack graph,
 - the attacker reacts optimally to each defender's decision,
-- the defender anticipates the attacker's reaction when choosing $T$.
+- the defender anticipates the attacker's reaction when choosing T.
 
 Because the follower's best response need not be unique, the solver computes an **ε-pessimistic** approximation of the equilibrium rather than relying on an exact (and possibly ill-defined) best response.
 
